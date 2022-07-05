@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  VKApp
+//  VKInterFace
 //
-//  Created by user on 05/07/2022.
+//  Created by user on 01/07/2022.
 //
 
 import UIKit
